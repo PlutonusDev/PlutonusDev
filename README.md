@@ -1,11 +1,19 @@
-## Hi, I'm Joshua
+## 👋 Hello! My name is Joshua.
 
-I'm a freelance fullstack developer, investor, and consultant based in Cairns, Australia.
+I'm a freelance fullstack developer, investor, and business consultant based in Cairns, Australia.
 
-- 🌱 I run a small blog on [my personal site](https://plutonus.dev)
-- 👯 I’m an open source contributor that is lookingto empower developers and business
-- 📚 I’m always learning and love to improve my work
-- 📫 You can reach me via my personal email: [joshua@plutonus.dev](mailto://joshua@plutonus.dev)
+> 🤝 I am an open source contributor looking to empower developers and small businesses.
+
+> 📚 I am always learning and looking for promising new projects to fund / sponsor / contribute.
+
+> ☕ I'd love to hear from you! Contact me if you'd like to talk sometime.
+
+---
+
+If you have an enquiry or are looking for work, I may be able to help! You can contact me via:
+- 📫 **[joshua@plutonus.dev](mailto://joshua@plutonus.dev)**
+- 📞 **(+61) 04 6000 5369**
+- 💬 **Plutonus#0001** on Discord
 
 -----
 <p align="center">
@@ -21,5 +29,5 @@ I'm a freelance fullstack developer, investor, and consultant based in Cairns, A
 -----
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PlutonusDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PlutonusDev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="175px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PlutonusDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutonusDev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="175x" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PlutonusDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutonusDev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=lua" height="175x" /></a>
 </p>
