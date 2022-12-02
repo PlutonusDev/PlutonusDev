@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/PlutonusDev">
-    <img src="https://i.vgy.me/8isHnd.png" alt="Joshua Hughes" />
+    <img src="https://i.vgy.me/J7yPTu.png" alt="Joshua Hughes" />
   </a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=FF00D8&center=true&vCenter=true&width=800&height=100&lines=Over+a+decade+of+experience;Full+stack+web+developer;Empowering+small+businesses" alt="Slogan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00D8&center=true&vCenter=true&width=800&height=50&lines=Over+a+decade+of+experience;Full+stack+web+developer;Empowering+small+businesses" alt="Slogan">
 </p>
 
 <!-- Social icons section -->
