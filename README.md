@@ -36,6 +36,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+    <a href="https://github.com/PlutonusDev/chatgpt.js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlutonusDev&repo=chatgpt.js&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chatgpt.js"></a>
   </p>
 </details>
 
