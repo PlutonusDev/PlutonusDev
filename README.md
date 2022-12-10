@@ -1,3 +1,5 @@
+![](https://hit.yhype.me/github/profile?user_id=46195982)
+
 <p align="center">
   <a href="https://github.com/PlutonusDev">
     <img src="https://i.vgy.me/J7yPTu.png" alt="Joshua Hughes" />
