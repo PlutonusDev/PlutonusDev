@@ -120,5 +120,5 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/vatACARS/plugin/issues/136#issuecomment-2264515571) in [vatACARS/plugin](https://github.com/vatACARS/plugin)
+1. 🎉 Merged PR [#9](https://github.com/vatACARS/server/pull/9) in [vatACARS/server](https://github.com/vatACARS/server)
 <!--END_SECTION:activity-->
