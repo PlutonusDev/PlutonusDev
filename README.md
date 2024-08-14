@@ -120,5 +120,5 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/vatACARS/server/pull/15) in [vatACARS/server](https://github.com/vatACARS/server)
+1. 🎉 Merged PR [#2](https://github.com/vatACARS/pilot-client/pull/2) in [vatACARS/pilot-client](https://github.com/vatACARS/pilot-client)
 <!--END_SECTION:activity-->
