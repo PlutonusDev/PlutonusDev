@@ -120,5 +120,5 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#161](https://github.com/vatACARS/plugin/issues/161) in [vatACARS/plugin](https://github.com/vatACARS/plugin)
+1. 💪 Opened PR [#83](https://github.com/PlutonusDev/Arlo/pull/83) in [PlutonusDev/Arlo](https://github.com/PlutonusDev/Arlo)
 <!--END_SECTION:activity-->
