@@ -120,5 +120,5 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/PlutonusDev/Arlo/pull/83) in [PlutonusDev/Arlo](https://github.com/PlutonusDev/Arlo)
+1. 💪 Opened PR [#84](https://github.com/PlutonusDev/Arlo/pull/84) in [PlutonusDev/Arlo](https://github.com/PlutonusDev/Arlo)
 <!--END_SECTION:activity-->
