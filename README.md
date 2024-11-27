@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/PlutonusDev">
-    <img src="https://i.vgy.me/J7yPTu.png" alt="Joshua Hughes" />
+    Joshua Hughes
   </a>
 </p>
 
