@@ -120,5 +120,5 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.2](https://github.com/vatACARS/hub/releases/tag/v1) in [vatACARS/hub](https://github.com/vatACARS/hub)
+1. 💪 Opened PR [#86](https://github.com/PlutonusDev/Arlo/pull/86) in [PlutonusDev/Arlo](https://github.com/PlutonusDev/Arlo)
 <!--END_SECTION:activity-->
