@@ -1,10 +1,10 @@
 ![](https://hit.yhype.me/github/profile?user_id=46195982)
 
-<p align="center">
+<h1 align="center">
   <a href="https://github.com/PlutonusDev">
     Joshua Hughes
   </a>
-</p>
+</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -13,11 +13,14 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/PlutonusDev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/PlutonusDev">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/plutonus"><img width="32px" alt="Dev.to" title="Plutonus Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/plutonus">
+    <img width="32px" alt="Dev.to" title="Plutonus Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/plutonus"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/plutonus">
+    <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
 <!-- Social badges section -->
@@ -25,20 +28,20 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/PlutonusDev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PlutonusDev?color=F2AD00&style=for-the-badge&labelColor=CC9500&logo=star"/>
-  </a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PlutonusDev?color=F2AD00&style=for-the-badge&labelColor=CC9500&logo=star"/></a>
   <a href="https://github.com/PlutonusDev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PlutonusDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <img alt="sponsors" title="Sponsor me on Github" src="https://custom-icon-badges.demolab.com/github/sponsors/PlutonusDev?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Sponsor&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PlutonusDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/sponsors/PlutonusDev">
+    <img alt="sponsors" title="Sponsor me on Github" src="https://custom-icon-badges.demolab.com/github/sponsors/PlutonusDev?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Sponsor&logoColor=white"/></a>
 </p>
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/PlutonusDev/chatgpt.js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlutonusDev&repo=chatgpt.js&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chatgpt.js"></a>
+    <a href="https://github.com/PlutonusDev/nextjs-portfolio-builder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlutonusDev&repo=nextjs-portfolio-builder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextjs-portfolio-builder"></a>
     <a href="https://github.com/PlutonusDev/casanova"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PlutonusDev&repo=casanova&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="casanova"></a>
   </p>
 </details>
@@ -122,3 +125,8 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#87](https://github.com/PlutonusDev/Arlo/pull/87) in [PlutonusDev/Arlo](https://github.com/PlutonusDev/Arlo)
 <!--END_SECTION:activity-->
+
+<details>
+  <summary><h2>🏷️ My Holopin Badges</h2></summary>
+  <img src="https://holopin.me/plutonusdev" />
+</details>
