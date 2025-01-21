@@ -123,7 +123,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/PlutonusDev/Arlo/pull/87) in [PlutonusDev/Arlo](https://github.com/PlutonusDev/Arlo)
+1. ❗ Opened issue [#2](https://github.com/PlutonusDev/nextjs-portfolio-builder/issues/2) in [PlutonusDev/nextjs-portfolio-builder](https://github.com/PlutonusDev/nextjs-portfolio-builder)
 <!--END_SECTION:activity-->
 
 <details>
