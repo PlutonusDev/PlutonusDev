@@ -35,6 +35,12 @@
     <img alt="sponsors" title="Sponsor me on Github" src="https://custom-icon-badges.demolab.com/github/sponsors/PlutonusDev?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Sponsor&logoColor=white"/></a>
 </p>
 
+<h3>⚡ Recent Activity</h3>
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -116,15 +122,6 @@
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
----
-
-<h3>⚡ Recent GitHub Activity</h3>
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/PlutonusDev/nextjs-portfolio-builder/issues/2) in [PlutonusDev/nextjs-portfolio-builder](https://github.com/PlutonusDev/nextjs-portfolio-builder)
-<!--END_SECTION:activity-->
 
 <details>
   <summary><h2>🏷️ My Holopin Badges</h2></summary>
