@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00D8&center=true&vCenter=true&width=800&height=50&lines=Over+a+decade+of+experience;Full+stack+web+developer;Empowering+small+businesses" alt="Slogan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=f75c7e&center=true&vCenter=true&width=800&height=50&lines=Full+stack+web+developer+%26+software+engineer;#26OpenToWork;Over+5+years+of+experience" alt="Slogan">
 </p>
 
 <!-- Social icons section -->
@@ -16,6 +16,9 @@
   <a href="https://twitter.com/PlutonusDev">
     <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/plutonus">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/plutonus">
     <img width="32px" alt="Dev.to" title="Plutonus Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
