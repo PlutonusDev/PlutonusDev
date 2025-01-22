@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=f75c7e&center=true&vCenter=true&width=800&height=50&lines=Full+stack+web+developer+%26+software+engineer;%26OpenToWork;Over+5+years+of+experience" alt="Slogan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=f75c7e&center=true&vCenter=true&width=800&height=50&lines=Full+stack+web+developer+%26+software+engineer;%23OpenToWork;Over+5+years+of+experience" alt="Slogan">
 </p>
 
 <!-- Social icons section -->
